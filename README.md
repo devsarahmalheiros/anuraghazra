@@ -10,7 +10,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love wrigkhdurhgjkhgjkdting TypeScript, and building fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
